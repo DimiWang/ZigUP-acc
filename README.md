@@ -17,6 +17,9 @@ CC2530 based multi-purpose ZigBee Relais, Switch, Sensor and Router
 * Output for one normal LED or up to 10 WS2812B/Neopixel RGB-LEDs (controllable via ZigBee)
 * Analog input to measure voltages of up to 32 Volt. (Voltage will be reported via ZigBee)
 * Fully equipped debug-port to allow CC Debugger flashing and packet sniffing
+My version:
+* Added accelerometer tap or double tap relay on/off(when mount inside 230V plug - let you manually on/off by tap)
+* Added 2 leds for power and alarm when sensor.
 
 # Connection diagrams
 
