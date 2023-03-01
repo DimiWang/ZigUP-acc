@@ -1,5 +1,8 @@
-﻿# ZigUP
-CC2530 based multi-purpose ZigBee Relais, Switch, Sensor and Router
+﻿# ZigUP - with tap detection
+    + Accelerometer
+    + 2 LEDS
+ 
+CC2530 based multi-purpose ZigBee Relays, Switch, Sensor and Router
 
 ![Image of ZigUP board](https://github.com/formtapez/ZigUP/raw/master/Pictures/top2.jpg)
 [Bottom side](https://raw.githubusercontent.com/formtapez/ZigUP/master/Pictures/bottom.jpg)
